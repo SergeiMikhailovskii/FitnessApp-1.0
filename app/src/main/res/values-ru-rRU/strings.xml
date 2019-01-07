@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ФитнесПрил</string>
+    <string name="programs">Программы</string>
+    <string name="indications">Показатели</string>
+    <string name="calculator">Калькулятор</string>
+    <string name="articles">Статьи</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="calculator_text">С помощью этого калькулятора вы можете проверить, в норме ли ваш вес</string>
+    <string name="weight">Введите ваш вес здесь</string>
+    <string name="height">Введите ваш рост здесь</string>
+    <string name="count">Рассчитать</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pulse">Введите ваш пульс здесь</string>
+    <string name="save">Сохранить</string>
+    <string name="create_graph">Создать график изменения пульса</string>
+    <string name="add">Добавить</string>
+    <string name="choose_the_section_you_need">Выберите необходимый раздел</string>
+    <string name="enter_the_title">Введите название</string>
+    <string name="title">Название</string>
+    <string name="enter_the_content">Введите содержание</string>
+    <string name="content">Содержание</string>
+    <string name="share">Поделиться</string>
+    <string name="your_articles">Ваши статьи:</string>
+    <string name="banner_ad_unit_id" />
+    <string name="print">Print</string>
+    <string name="screenshot">Screenshot</string>
+
+    <string-array name="addVariants">
+        <item>Статьи</item>
+        <item>Программы</item>
+    </string-array>
+</resources>

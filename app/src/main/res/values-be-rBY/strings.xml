@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ФітнэсДад</string>
+    <string name="programs">Праграмы</string>
+    <string name="indications">Паказчыкі</string>
+    <string name="calculator">Калькулятар</string>
+    <string name="articles">Артыкулы</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="calculator_text">З дапамогай гэтага калькулятара вы можаце праверыць, ці у норме вашая вага</string>
+    <string name="weight">Увядзіце вашую вагу</string>
+    <string name="height">Увядзіце вашую вышыню</string>
+    <string name="count">Разлічыць</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Хэло блэнк фрэгмент</string>
+    <string name="pulse">Увядзіце ваш пульс</string>
+    <string name="save">Сахраніць</string>
+    <string name="create_graph">Стварыць графік змены пульса</string>
+    <string name="add">Дабавіць</string>
+    <string name="choose_the_section_you_need">Увядзіце неабходную вам секцыю</string>
+    <string name="enter_the_title">Увядзіце назву</string>
+    <string name="title">Назва</string>
+    <string name="enter_the_content">Увядзіце змест</string>
+    <string name="content">Замест</string>
+    <string name="share">Падзяліцца</string>
+    <string name="your_articles">Вашы артыкулы:</string>
+    <string name="banner_ad_unit_id" />
+    <string name="print">Print</string>
+    <string name="screenshot">Screenshot</string>
+
+    <string-array name="addVariants">
+        <item>Артыкул</item>
+        <item>Праграма</item>
+    </string-array>
+</resources>

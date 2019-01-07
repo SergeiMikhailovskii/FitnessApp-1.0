@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/programs"
+        android:title="@string/programs"
+        android:icon="@drawable/training" />
+
+    <item
+        android:id="@+id/indications"
+        android:icon="@drawable/indications"
+        android:title="@string/indications" />
+
+    <item
+        android:id="@+id/calculator"
+        android:icon="@drawable/calc"
+        android:title="@string/calculator"/>
+
+    <item
+        android:id="@+id/articles"
+        android:icon="@drawable/news"
+        android:title="@string/articles"
+        />
+</menu>
